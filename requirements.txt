@@ -45,7 +45,7 @@ signpdf==0.0.3
 simplejson==3.17.0
 six==1.14.0
 traits==5.2.0
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.1
 WTForms==2.2.1
 certifi==2020.4.5.1
